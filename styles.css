@@ -62,6 +62,15 @@ p {
     animation: spin3D 2s linear infinite;
 }
 
+.go-to-editor-button {
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    left: 40%;
+    opacity: 1;
+    color: whitesmoke;
+}
+
 /* animaion keyframing */
 
 @keyframes spin3D {
