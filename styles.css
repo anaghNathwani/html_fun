@@ -56,6 +56,24 @@ p {
     height: 30px;
 }
 
+.ml-work-link {
+    color: whitesmoke;
+}
+
+.stop-touching-me {
+    position: fixed;
+    top: 20%;
+    left: 29%;
+}
+
+a {
+    color: white;
+}
+
+.aa {
+    position: absolute;
+    top: 40%;
+}
 
 /* special effects */
 .orangeBox:hover {

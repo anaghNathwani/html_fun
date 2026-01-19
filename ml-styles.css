@@ -1,0 +1,14 @@
+body {
+    color: black;
+}
+
+a {
+    color: rgb(92, 41, 92);
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+    text-decoration: underline;
+}
+
